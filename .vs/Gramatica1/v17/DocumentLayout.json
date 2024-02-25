@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE8B181-E835-4826-B2DD-A8EF909B205E}|Gramatica1\\Gramatica1.vcxproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\Gramatica1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE8B181-E835-4826-B2DD-A8EF909B205E}|Gramatica1\\Gramatica1.vcxproj|solutionrelative:Gramatica1\\Gramatica1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE8B181-E835-4826-B2DD-A8EF909B205E}|Gramatica1\\Gramatica1.vcxproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\Gramatica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE8B181-E835-4826-B2DD-A8EF909B205E}|Gramatica1\\Gramatica1.vcxproj|solutionrelative:Gramatica1\\Gramatica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE8B181-E835-4826-B2DD-A8EF909B205E}|Gramatica1\\Gramatica1.vcxproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\FiniteAutomaton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE8B181-E835-4826-B2DD-A8EF909B205E}|Gramatica1\\Gramatica1.vcxproj|solutionrelative:Gramatica1\\FiniteAutomaton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gramatica1.cpp",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\Gramatica1.cpp",
+              "RelativeDocumentMoniker": "Gramatica1\\Gramatica1.cpp",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\Gramatica1.cpp",
+              "RelativeToolTip": "Gramatica1\\Gramatica1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-25T18:42:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gramatica.cpp",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\Gramatica.cpp",
+              "RelativeDocumentMoniker": "Gramatica1\\Gramatica.cpp",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\Gramatica.cpp",
+              "RelativeToolTip": "Gramatica1\\Gramatica.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-25T18:42:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiniteAutomaton.cpp",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\FiniteAutomaton.cpp",
+              "RelativeDocumentMoniker": "Gramatica1\\FiniteAutomaton.cpp",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem1\\LFC\\temalfc\\Gramatica1\\Gramatica1\\FiniteAutomaton.cpp",
+              "RelativeToolTip": "Gramatica1\\FiniteAutomaton.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-25T18:42:27.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
